@@ -2,3 +2,4 @@ welcome=input("enter welcome message")
 print("Hello Everyone")
 print('Your Mesg is')
 print(Welcome)
+mesg='hello'
