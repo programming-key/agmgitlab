@@ -1,3 +1,4 @@
 welcome=input("enter welcome message")
 print("Hello Everyone")
-print(welcome)
+print('Your Mesg is')
+print(Welcome)
